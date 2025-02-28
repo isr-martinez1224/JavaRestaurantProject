@@ -9,3 +9,4 @@ This is a class project I made using the Java programming language in Spring 202
   <img src="docs/showcase/javaproject1.JPG"/>
 </p>
 
+The project is presented using UI elements provided by the <ins>***javax.swing***</ins> library. 
