@@ -13,29 +13,66 @@ The project is presented using UI elements provided by the <ins>***javax.swing**
 
 ## Order.java
 <p align="center">
-
+  <img src="docs/showcase/javaproject2.JPG"/>
 </p>
 
 
 
 ## Pizza.java
-<p align="center">
-
-</p>
+<table>
+  <tr>
+    <p align="center">
+      <img src="docs/showcase/javaproject3.JPG"/>
+    </p>
+  </tr>
+  <tr>
+    <p align="center">
+      <img src="docs/showcase/javaproject4.JPG"/>
+    </p>
+  </tr>
+  <tr>
+    <p align="center">
+      <img src="docs/showcase/javaproject5.JPG"/>
+    </p>
+  </tr>
+</table>
 
 
 
 ## Wings.java
-<p align="center">
-
-</p>
+<table>
+  <tr>
+    <p align="center">
+      <img src="docs/showcase/javaproject6.JPG"/>
+    </p>
+  </tr>
+  <tr>
+    <p align="center">
+      <img src="docs/showcase/javaproject7.JPG"/>
+    </p>
+  </tr>
+  <tr>
+    <p align="center">
+      <img src="docs/showcase/javaproject8.JPG"/>
+    </p>
+  </tr>
+</table>
 
 
 
 ## Dessert.java
-<p align="center">
-
-</p>
+<table>
+  <tr>
+    <p align="center">
+      <img src="docs/showcase/javaproject9.JPG"/>
+    </p>
+  </tr>
+  <tr>
+    <p align="center">
+      <img src="docs/showcase/javaproject10.JPG"/>
+    </p>
+  </tr>
+</table>
 
 
 
