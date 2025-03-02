@@ -99,5 +99,30 @@ The third menu item includes all of the dessert options. The user has 3 choices 
         <img src="docs/showcase/javaproject12.JPG"/>
       </th>
     </tr>
+    <tr>
+      <th>
+        <img src="docs/showcase/javaproject13.JPG"/>
+      </th>
+      <th>
+        <img src="docs/showcase/javaproject14.JPG"/>
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <img src="docs/showcase/javaproject15.JPG"/>
+      </th>
+      <th>
+        <img src="docs/showcase/javaproject16.JPG"/>
+      </th>
+    </tr>
+    <tr>
+      <th>
+        <img src="docs/showcase/javaproject17.JPG"/>
+      </th>
+      <th>
+      </th>
+    </tr>
   </table>
 </p>
+
+When the user is done ordering their items, they can submit the order and see the total cost. The program will display each category and provide a summary of everything the user ordered. Once the order has been reviewed, a thank you message will display on the screen which tells the user that their order has been confirmed. Each user order is added to a `private static` int variable which keeps track of how many orders the program has taken. After every new order is placed, the current total will display on the screen. When exiting the program, one final goodbye message displays on the screen with a logo and **"See you soon!"** message.
